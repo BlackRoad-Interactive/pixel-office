@@ -1,11 +1,11 @@
 ---
 name: pixel-office
-description: Panel de control para bots Pixel en OpenClaw: dashboard seguro con edición visual de agentes, mapas y estados.
+description: "Panel de control para bots Pixel en OpenClaw: dashboard seguro con edición visual de agentes, mapas y estados."
 ---
 
 # Pixel Office Skill
 
-Este Skill te guía para levantar y mantener el dashboard pixelado que controla a los agentes locales de Javi. Úsalo cada vez que necesites (1) reinstalar, (2) tocar la configuración o (3) enseñar a alguien cómo personalizar su propia oficina.
+Este Skill te guía para levantar y mantener el dashboard pixelado que controla a tus agentes locales. Úsalo cada vez que necesites (1) reinstalar, (2) ajustar la configuración o (3) enseñar a otra persona a personalizar su propia oficina.
 
 ---
 
